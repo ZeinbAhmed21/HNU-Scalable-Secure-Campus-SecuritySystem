@@ -199,3 +199,9 @@ python main.py
 Database Security & Secure Systems Architecture Project
 
 ---
+
+## 🤝 Contributors
+- Zeinab Ahmed
+- Ibrahim Hamdy
+
+---
